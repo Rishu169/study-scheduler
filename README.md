@@ -1,7 +1,7 @@
 # study-scheduler
 ## Introduction
 
-For my AI & ML BYOP capstone, I built the Smart Study Planner. It is a Python script that runs in the terminal to help figure out what to actually focus on before exams. Instead of just guessing what to study, the script uses the PEAS framework to act as a rational agent. It looks at how many days are left until a test and how confident the user is in that subject, and then it generates a prioritized, hour-by-hour study schedule.
+For my AI & ML BYOP capstone, I built the Smart Study Scheduler. It is a Python script that runs in the terminal to help figure out what to actually focus on before exams. Instead of just guessing what to study, the script uses the PEAS framework to act as a rational agent. It looks at how many days are left until a test and how confident the user is in that subject, and then it generates a prioritized, hour-by-hour study schedule.
 
 ## Features
 
