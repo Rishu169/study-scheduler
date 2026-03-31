@@ -37,3 +37,12 @@ This function grabs the user input. It uses the datetime module to figure out ex
 
 •⁠ **The Agent & Actuator (make_timetable):**  
 This is where the actual AI logic happens. It loops through the syllabus and applies the priority formula: (5 - prep_level) / (days_left + 1). After calculating that, it sorts the list from most to least urgent and prints out the final study blocks.
+
+**Author:** Priyanshu Choudhary  
+**Registration Number:** 25BAI11225   
+
+![WhatsApp Image 2026-03-31 at 23 24 05](https://github.com/user-attachments/assets/104ba320-3ef1-4184-b012-dbc5934d49ee)  
+
+![WhatsApp Image 2026-03-31 at 23 24 04](https://github.com/user-attachments/assets/29736e9e-eaad-4a6f-a10c-7fd4a87355ee)
+
+
